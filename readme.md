@@ -6,9 +6,9 @@
 
 Final-year ECE student building interactive dashboards, ML models, and GenAI applications that turn raw data into strategic decisions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://utkarshizm.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandeyutkarrsh/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pandeyutkarsh060@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
 
@@ -57,20 +57,25 @@ JSS Academy of Technical Education, Noida · 2023 – 2027
 
 ### Featured Projects
 
-**[DocSoft: Enterprise AI Q&A Bot](#)**
+**[DocSoft: Enterprise AI Q&A Bot](https://github.com/utkarshizm/ai-document-qa-rag)** · [Live Demo](https://docsoft.streamlit.app/)
 RAG pipeline for natural language Q&A across enterprise documents, with semantic chunking, cross-encoder reranking, and page-level citation tracing to eliminate hallucinations. `LangChain` `Gemini API`
 
-**[Olist — Revenue & Retention Analysis](#)**
+**[Olist — Revenue & Retention Analysis](https://olist-revenue-retention.streamlit.app/)**
 SQL-to-Streamlit pipeline analyzing 94K+ customers and R$15.6M in revenue; identified a 39.6%-of-revenue at-risk segment and proposed a reactivation strategy projecting ~900% ROI. `SQL` `Streamlit`
 
-**[Zomato Bangalore Restaurants Analysis](#)**
+**[Zomato Bangalore Restaurants Analysis](https://utkrsh.lovable.app/projects/zomato)**
 Cleaned 51,717+ records and built an interactive Power BI dashboard with DAX measures and geographic heat maps to surface high-opportunity market segments. `Power BI` `Python`
 
-**[IPL Cricket Analytics Dashboard](#)**
+**[IPL Cricket Analytics Dashboard](https://utkrshizm-ipl-dashboard-app-bf24yl.streamlit.app)**
 End-to-end analytics dashboard over 16 IPL seasons and 988 matches with interactive Plotly visualizations, optimized with vectorized Pandas. `Python` `Streamlit`
 
-**[Superstore Sales Dashboard](#)**
+**[Superstore Sales Dashboard](https://public.tableau.com/app/profile/utkarsh.pandey4648)**
 Executive dashboard on 10,000+ records with KPI cards, treemaps, and a color-coded profit map with cross-chart filtering. `Tableau`
+
+**Anti-Crash & Object Detection System**
+Parking assistance prototype using Radar and Sonar sensors for real-time obstacle detection and collision avoidance. `Arduino` `IoT`
+
+🔗 **[See all projects on my portfolio →](https://utkarshizm.github.io/Portfolio/)**
 
 ---
 
@@ -80,6 +85,8 @@ Executive dashboard on 10,000+ records with KPI cards, treemaps, and a color-cod
 - Azure AI Essentials Professional Certificate — Microsoft · LinkedIn
 - SQL (Advanced) Skill Certification — HackerRank
 - GenAI 360: Generative AI Fundamentals — Activeloop
+- GitHub Professional Certificate — GitHub
+- Career Essentials in Data Analysis — Microsoft · LinkedIn
 - Quantitative Research Job Simulation — JPMorgan Chase · Forage
 - GenAI Powered Data Analytics Simulation — Tata Group · Forage
 - Data Analytics Job Simulation — Deloitte Australia · Forage
@@ -90,8 +97,8 @@ Executive dashboard on 10,000+ records with KPI cards, treemaps, and a color-cod
 
 <div align="center">
 
-![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
+![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarshizm&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshizm&layout=compact&hide_border=true)
 
 </div>
 
@@ -99,6 +106,6 @@ Executive dashboard on 10,000+ records with KPI cards, treemaps, and a color-cod
 
 <div align="center">
 
-📫 **Let's connect:** [pandeyutkarsh060@gmail.com](mailto:pandeyutkarsh060@gmail.com) · [LinkedIn](https://linkedin.com/in/your-linkedin)
+📫 **Let's connect:** [pandeyutkarsh060@gmail.com](mailto:pandeyutkarsh060@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pandeyutkarrsh/) · [Portfolio](https://utkarshizm.github.io/Portfolio/)
 
 </div>
