@@ -2,11 +2,11 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Creepster&size=52&duration=4000&pause=1200&color=FF0000&center=true&vCenter=true&width=850&height=90&lines=UTKARSH+PANDEY" alt="Utkarsh Pandey" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Creepster&size=58&duration=4000&pause=1500&color=FF0000&center=true&vCenter=true&width=900&height=100&lines=UTKARSH+PANDEY" alt="UTKARSH PANDEY" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=3500&pause=900&color=00FF00&center=true&vCenter=true&width=750&height=45&lines=AI+%26+DATA+SCIENTIST;DATA+%7C+AI+%7C+GENAI;HUNTING+INSIGHTS+IN+THE+UPSIDE+DOWN" alt="AI & Data Scientist" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&height=45&lines=AI+%26+DATA+SCIENTIST;DATA+%7C+AI+%7C+GENAI;HUNTING+INSIGHTS+IN+THE+UPSIDE+DOWN" alt="AI & Data Scientist" />
 
 <br><br>
 
@@ -17,7 +17,7 @@
 &nbsp;
 
 <a href="https://www.linkedin.com/in/pandeyutkarrsh/">
-<img src="https://img.shields.io/badge/RADIO_SHACK-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn">
+<img src="https://img.shields.io/badge/RADIO_SHACK-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
 </a>
 
 &nbsp;
@@ -36,7 +36,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=utkarshizm&style=flat-square&color=FF0000&label=GATE+VISITORS" alt="Profile Views">
 
-<br>
+<br><br>
 
 </div>
 
