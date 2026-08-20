@@ -1,28 +1,42 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=750&lines=UTKARSH+PANDEY;AI+%26+DATA+SCIENTIST;DATA+%7C+AI+%7C+GENAI;FRIENDS+DON'T+LIE...+NEITHER+DOES+DATA;HUNTING+INSIGHTS+IN+THE+UPSIDE+DOWN" alt="Typing SVG" />
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Creepster&size=52&duration=4000&pause=1200&color=FF0000&center=true&vCenter=true&width=850&height=90&lines=UTKARSH+PANDEY" alt="Utkarsh Pandey" />
 
 <br>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=3500&pause=900&color=00FF00&center=true&vCenter=true&width=750&height=45&lines=AI+%26+DATA+SCIENTIST;DATA+%7C+AI+%7C+GENAI;HUNTING+INSIGHTS+IN+THE+UPSIDE+DOWN" alt="AI & Data Scientist" />
+
+<br><br>
+
 <a href="https://utkarshizm.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/THE_PORTAL-000000?style=flat-square&logo=vercel&logoColor=FF0000" alt="Portfolio">
+<img src="https://img.shields.io/badge/THE_PORTAL-000000?style=for-the-badge&logo=vercel&logoColor=FF0000" alt="Portfolio">
 </a>
+
+&nbsp;
 
 <a href="https://www.linkedin.com/in/pandeyutkarrsh/">
-<img src="https://img.shields.io/badge/RADIO_SHACK-000000?style=flat-square&logo=linkedin&logoColor=FF0000" alt="LinkedIn">
+<img src="https://img.shields.io/badge/RADIO_SHACK-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn">
 </a>
+
+&nbsp;
 
 <a href="mailto:pandeyutkarsh060@gmail.com">
-<img src="https://img.shields.io/badge/THE_MAILBOX-000000?style=flat-square&logo=gmail&logoColor=FF0000" alt="Email">
+<img src="https://img.shields.io/badge/THE_MAILBOX-000000?style=for-the-badge&logo=gmail&logoColor=FF0000" alt="Email">
 </a>
 
+&nbsp;
+
 <a href="https://github.com/utkarshizm?tab=repositories">
-<img src="https://img.shields.io/badge/THE_UPSIDE_DOWN-000000?style=flat-square&logo=github&logoColor=FF0000" alt="GitHub">
+<img src="https://img.shields.io/badge/THE_UPSIDE_DOWN-000000?style=for-the-badge&logo=github&logoColor=FF0000" alt="GitHub">
 </a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=utkarshizm&style=flat-square&color=FF0000&label=GATE+VISITORS" alt="Profile Views">
+
+<br>
 
 </div>
 
