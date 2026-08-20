@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/pandeyutkarrsh/">
-<img src="https://img.shields.io/badge/LINKEDIN-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF">
 </a>
 
 <a href="mailto:pandeyutkarsh060@gmail.com">
@@ -400,35 +400,7 @@ MARKET INTELLIGENCE
 
 ---
 
-# SAY MY NAME
-
 <div align="center">
-
-```text
-==================================================================
-||                                                              ||
-||                     WHO ARE YOU TALKING TO?                  ||
-||                                                              ||
-||                    SYSTEM STATUS: COOKING                    ||
-||                                                              ||
-||                  NEXT BATCH LOADING...                       ||
-||                                                              ||
-==================================================================
-```
-
-<br>
-
-<a href="https://utkarshizm.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/ENTER_THE_LAB-0B0B0B?style=for-the-badge&logo=vercel&logoColor=00FF41">
-</a>
-
-<br><br>
-
-<a href="mailto:pandeyutkarsh060@gmail.com">📫 Email</a>
-  •   <a href="https://www.linkedin.com/in/pandeyutkarrsh/">💼 LinkedIn</a>
-  •   <a href="https://github.com/utkarshizm">💻 GitHub</a>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=footer" width="85%">
 
