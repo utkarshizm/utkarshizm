@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Creepster&size=58&duration=4000&pause=1500&color=FF0000&center=true&vCenter=true&width=900&height=100&lines=UTKARSH+PANDEY" alt="UTKARSH PANDEY" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=64&duration=5000&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&height=110&lines=UTKARSH+PANDEY" alt="UTKARSH PANDEY" />
 
 <br>
 
@@ -31,10 +31,6 @@
 <a href="https://github.com/utkarshizm?tab=repositories">
 <img src="https://img.shields.io/badge/THE_UPSIDE_DOWN-000000?style=for-the-badge&logo=github&logoColor=FF0000" alt="GitHub">
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=utkarshizm&style=flat-square&color=FF0000&label=GATE+VISITORS" alt="Profile Views">
 
 <br><br>
 
