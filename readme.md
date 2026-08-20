@@ -1,35 +1,27 @@
 <div align="center">
 
+# 🧪 UTKARSH PANDEY
+
+### AI & DATA SCIENTIST
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=20&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=DATA+%7C+AI+%7C+GENAI+%7C+ENGINEERING;TURNING+RAW+DATA+INTO+INTELLIGENCE;NO+HALF+MEASURES." />
+
 <br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=52&duration=4500&pause=1800&color=FFD700&center=true&vCenter=true&width=1000&height=100&lines=UTKARSH+PANDEY" alt="UTKARSH PANDEY" />
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=19&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&height=45&lines=AI+%26+DATA+SCIENTIST;DATA+ENGINEERING+%7C+GENAI+%7C+ANALYTICS;I+AM+THE+ONE+WHO+BUILDS." alt="AI & Data Scientist" />
-
-<br><br>
 
 <a href="https://utkarshizm.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0B0B0B?style=for-the-badge&logo=vercel&logoColor=FFD700" alt="Portfolio">
+<img src="https://img.shields.io/badge/PORTFOLIO-0B0B0B?style=for-the-badge&logo=vercel&logoColor=FFD700">
 </a>
-
-&nbsp;
 
 <a href="https://www.linkedin.com/in/pandeyutkarrsh/">
-<img src="https://img.shields.io/badge/LINKEDIN-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LINKEDIN-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=FFFFFF">
 </a>
-
-&nbsp;
 
 <a href="mailto:pandeyutkarsh060@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-0B0B0B?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email">
+<img src="https://img.shields.io/badge/EMAIL-0B0B0B?style=for-the-badge&logo=gmail&logoColor=FFD700">
 </a>
 
-&nbsp;
-
-<a href="https://github.com/utkarshizm?tab=repositories">
-<img src="https://img.shields.io/badge/GITHUB-0B0B0B?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub">
+<a href="https://github.com/utkarshizm">
+<img src="https://img.shields.io/badge/GITHUB-0B0B0B?style=for-the-badge&logo=github&logoColor=FFD700">
 </a>
 
 <br><br>
@@ -40,367 +32,269 @@
 
 ---
 
-# 🧪 HEISENBERG LAB // SYSTEM PROFILE
+# 🧪 ABOUT ME
+
+I'm a tech enthusiast building systems that turn **raw data into strategic decisions**.
+
+My work sits at the intersection of **Data Science, Data Engineering, Generative AI, and Business Intelligence** — from scalable PySpark pipelines to production-oriented RAG applications and interactive analytics dashboards.
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                     HEISENBERG LAB                           ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  SUBJECT ............ UTKARSH PANDEY                         ║
-║  SPECIALIZATION ..... AI + DATA SCIENCE                      ║
-║  STATUS ............. ACTIVE                                 ║
-║  LOCATION ........... INDIA                                  ║
-║  EXPERIENCE .......... BUILDING REAL SYSTEMS                 ║
-║                                                              ║
-║  PRIMARY ELEMENTS:                                           ║
-║  [ DATA ] [ AI ] [ PYTHON ] [ SQL ] [ GENAI ]               ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────┐
+│                    HEISENBERG LAB                            │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  SUBJECT .............. UTKARSH PANDEY                      │
+│  SPECIALIZATION ....... AI + DATA SCIENCE                   │
+│  STATUS ............... ACTIVE                              │
+│                                                             │
+│  CORE SYSTEMS:                                              │
+│  Python • SQL • PySpark • Databricks • GenAI • Power BI    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ````
 
-> **"No half measures."**
+🎓 **B.Tech, Electronics & Communication Engineering**
+JSS Academy of Technical Education, Noida · 2023 – 2027
 
-I'm **Utkarsh Pandey**, a final-year Electronics & Communication Engineering student focused on **Data Science, Generative AI, and Data Engineering**.
+🌱 Currently exploring **RAG pipelines, AI agents, and LLM applications**
 
-I build systems that transform raw data into **useful insights, scalable pipelines, and intelligent applications**.
+🎯 Seeking **Data Science, AI, GenAI, or Data Engineering internships**
 
-* 🎓 **B.Tech — Electronics & Communication Engineering**
-
-  * JSS Academy of Technical Education, Noida · 2023–2027
-* 🧠 **Core:** Data Science · Data Engineering · Generative AI
-* 🔥 Building with **Python, SQL, PySpark, Databricks, LangChain & Power BI**
-* 🌱 Currently exploring **RAG pipelines, AI agents & LLM applications**
-* 🎯 Seeking **Data Science, AI/ML, GenAI & Data Engineering internships**
-* 👥 Led a **100+ student technology community**
+⚡ Led a **100+ student technology community**
 
 ---
 
-# ⚗️ THE CHEMISTRY // TECHNICAL STACK
+# ⚗️ THE CHEMISTRY
 
-<table>
-<tr>
+## 🧠 AI & MACHINE LEARNING
 
-<td width="33%" valign="top">
+![Python](https://img.shields.io/badge/Python-0B0B0B?style=flat-square\&logo=python\&logoColor=FFD700)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0B0B0B?style=flat-square\&logo=scikitlearn\&logoColor=FFD700)
+![Pandas](https://img.shields.io/badge/Pandas-0B0B0B?style=flat-square\&logo=pandas\&logoColor=FFFFFF)
+![NumPy](https://img.shields.io/badge/NumPy-0B0B0B?style=flat-square\&logo=numpy\&logoColor=FFD700)
 
-<h4 align="center">🧪 THE COOK</h4>
-<p align="center"><b>AI & MACHINE LEARNING</b></p>
+## 💎 GENERATIVE AI
 
-<p align="center">
+![LangChain](https://img.shields.io/badge/LangChain-0B0B0B?style=flat-square\&logo=langchain\&logoColor=FFFFFF)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-0B0B0B?style=flat-square\&logo=openai\&logoColor=FFFFFF)
+![Gemini](https://img.shields.io/badge/Google_Gemini-0B0B0B?style=flat-square\&logo=googlegemini\&logoColor=FFD700)
+![Azure AI](https://img.shields.io/badge/Azure_AI-0B0B0B?style=flat-square\&logo=microsoftazure\&logoColor=FFD700)
 
-<img src="https://img.shields.io/badge/Python-0B0B0B?style=flat-square&logo=python&logoColor=FFD700">
-<img src="https://img.shields.io/badge/Scikit--Learn-0B0B0B?style=flat-square&logo=scikitlearn&logoColor=FFD700">
-<img src="https://img.shields.io/badge/Pandas-0B0B0B?style=flat-square&logo=pandas&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/NumPy-0B0B0B?style=flat-square&logo=numpy&logoColor=FFD700">
+## 🔥 DATA ENGINEERING
 
-</p>
+![PySpark](https://img.shields.io/badge/PySpark-0B0B0B?style=flat-square\&logo=apachespark\&logoColor=FFD700)
+![Databricks](https://img.shields.io/badge/Databricks-0B0B0B?style=flat-square\&logo=databricks\&logoColor=FFD700)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-0B0B0B?style=flat-square\&logo=databricks\&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/SQL-0B0B0B?style=flat-square\&logo=postgresql\&logoColor=FFFFFF)
+![Azure](https://img.shields.io/badge/Azure-0B0B0B?style=flat-square\&logo=microsoftazure\&logoColor=FFD700)
 
-</td>
+## 📊 DATA & BI
 
-<td width="33%" valign="top">
+![Power BI](https://img.shields.io/badge/Power_BI-0B0B0B?style=flat-square\&logo=powerbi\&logoColor=FFD700)
+![Tableau](https://img.shields.io/badge/Tableau-0B0B0B?style=flat-square\&logo=tableau\&logoColor=FFFFFF)
+![Streamlit](https://img.shields.io/badge/Streamlit-0B0B0B?style=flat-square\&logo=streamlit\&logoColor=FFD700)
+![Plotly](https://img.shields.io/badge/Plotly-0B0B0B?style=flat-square\&logo=plotly\&logoColor=FFFFFF)
 
-<h4 align="center">💎 THE PRODUCT</h4>
-<p align="center"><b>GENERATIVE AI</b></p>
+## 🛠️ TOOLS
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/LangChain-0B0B0B?style=flat-square&logo=langchain&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/OpenAI_API-0B0B0B?style=flat-square&logo=openai&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Gemini-0B0B0B?style=flat-square&logo=googlegemini&logoColor=FFD700">
-<img src="https://img.shields.io/badge/Azure_AI-0B0B0B?style=flat-square&logo=microsoftazure&logoColor=FFD700">
-
-</p>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h4 align="center">🔥 THE LAB</h4>
-<p align="center"><b>DATA ENGINEERING</b></p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/PySpark-0B0B0B?style=flat-square&logo=apachespark&logoColor=FFD700">
-<img src="https://img.shields.io/badge/Databricks-0B0B0B?style=flat-square&logo=databricks&logoColor=FFD700">
-<img src="https://img.shields.io/badge/Delta_Lake-0B0B0B?style=flat-square&logo=databricks&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/SQL-0B0B0B?style=flat-square&logo=postgresql&logoColor=FFFFFF">
-
-</p>
-
-</td>
-
-</tr>
-</table>
-
-### 📊 ANALYTICS
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Power_BI-0B0B0B?style=flat-square&logo=powerbi&logoColor=FFD700">
-<img src="https://img.shields.io/badge/Tableau-0B0B0B?style=flat-square&logo=tableau&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Streamlit-0B0B0B?style=flat-square&logo=streamlit&logoColor=FFD700">
-<img src="https://img.shields.io/badge/Plotly-0B0B0B?style=flat-square&logo=plotly&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/DAX-0B0B0B?style=flat-square&logo=powerbi&logoColor=FFD700">
-
-</p>
-
-### ☁️ INFRASTRUCTURE
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Azure-0B0B0B?style=flat-square&logo=microsoftazure&logoColor=FFD700">
-<img src="https://img.shields.io/badge/Unity_Catalog-0B0B0B?style=flat-square&logo=databricks&logoColor=FFD700">
-<img src="https://img.shields.io/badge/Databricks_Workflows-0B0B0B?style=flat-square&logo=databricks&logoColor=FFD700">
-<img src="https://img.shields.io/badge/Docker-0B0B0B?style=flat-square&logo=docker&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/FastAPI-0B0B0B?style=flat-square&logo=fastapi&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Git-0B0B0B?style=flat-square&logo=git&logoColor=FFD700">
-
-</p>
+![Git](https://img.shields.io/badge/Git-0B0B0B?style=flat-square\&logo=git\&logoColor=FFD700)
+![Docker](https://img.shields.io/badge/Docker-0B0B0B?style=flat-square\&logo=docker\&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B0B0B?style=flat-square\&logo=fastapi\&logoColor=FFFFFF)
+![Jupyter](https://img.shields.io/badge/Jupyter-0B0B0B?style=flat-square\&logo=jupyter\&logoColor=FFD700)
+![VS Code](https://img.shields.io/badge/VS_Code-0B0B0B?style=flat-square\&logo=visualstudiocode\&logoColor=FFD700)
 
 ---
 
-# 🔥 THE PRODUCT // TOP 4 PROJECTS
+# 🔥 THE LAB // TOP PROJECTS
 
-## 🥇 01 — THE BLUE SKY
+## 🥇 NYC TAXI ETL PIPELINE
 
-### NYC TAXI ETL PIPELINE
+### `PySpark` `Databricks` `Delta Lake` `Azure`
 
-`PySpark` `Azure Databricks` `Delta Lake` `Databricks Workflows`
+> **3.5M+ real-world NYC TLC records/month.**
 
-> **"Chemistry is the study of matter. Data engineering is the study of scale."**
-
-A production-style **Bronze → Silver → Gold** data pipeline processing real-world NYC TLC taxi data at scale.
+A scalable Bronze → Silver → Gold ETL pipeline built on Azure Databricks and Delta Lake.
 
 ```text
-                       NYC TLC DATA
-                            │
-                            ▼
-                  ┌───────────────────┐
-                  │      BRONZE       │
-                  │   RAW INGESTION   │
-                  └─────────┬─────────┘
-                            │
-                            ▼
-                  ┌───────────────────┐
-                  │      SILVER       │
-                  │ CLEAN + VALIDATE  │
-                  └─────────┬─────────┘
-                            │
-                            ▼
-                  ┌───────────────────┐
-                  │       GOLD        │
-                  │ ANALYTICS READY   │
-                  └─────────┬─────────┘
-                            │
-                            ▼
-                       INSIGHTS
+                    NYC TLC DATA
+                         │
+                         ▼
+               ┌──────────────────┐
+               │     BRONZE       │
+               │   RAW INGESTION  │
+               └────────┬─────────┘
+                        │
+                        ▼
+               ┌──────────────────┐
+               │     SILVER       │
+               │ CLEAN + VALIDATE │
+               └────────┬─────────┘
+                        │
+                        ▼
+               ┌──────────────────┐
+               │      GOLD        │
+               │ ANALYTICS READY  │
+               └────────┬─────────┘
+                        │
+                        ▼
+                    INSIGHTS
 ```
 
-### 🚨 DATA QUALITY INCIDENT
+### 🚨 THE DATA QUALITY INCIDENT
 
-During validation, a **$863K fare on a 1.6-mile trip** was discovered.
+A live data-quality investigation uncovered an **erroneous $863K fare on a 1.6-mile trip**, which skewed revenue aggregates by approximately **5×**.
 
-The anomaly skewed revenue aggregates by approximately **5×**.
+The issue was fixed through an explicit validation filter before downstream analytics.
 
-An explicit validation rule was introduced to prevent the corrupted record from contaminating downstream analytics.
-
-### RESULTS
+### SYSTEM RESULTS
 
 * ⚡ **3.5M+ NYC TLC records/month**
 * 🏗️ Bronze → Silver → Gold architecture
-* 🚨 Identified **$863K erroneous fare**
-* 🛡️ Explicit validation filters
-* 📊 `percentile_approx` for scalable percentile calculations
-* 🔄 Scheduled Databricks Workflow
-* 🚨 Failure-alert stage
+* 🚨 Identified and fixed an **$863K fare anomaly**
+* 🛡️ Explicit data-quality validation
+* 📊 Replaced exact percentiles with `percentile_approx`
+* 🔄 Databricks Workflow: ETL → validation → failure alert
 * 🧪 Deterministic across **3 consecutive runs**
-* ☁️ Azure Databricks + Delta Lake
-* 🗄️ Unity Catalog
+* 📅 Self-updating date logic
+* ☁️ Azure Databricks
+* 🗄️ Delta Lake
+* 🔐 Unity Catalog
 
-`PySpark` `Python` `Databricks` `Delta Lake` `Azure`
+**Repository**
 
-💻 **[COOK THE DATA →](https://github.com/utkarshizm/nyc-taxi-etl-pipeline)**
+[🧪 COOK THE DATA →](https://github.com/utkarshizm/nyc-taxi-etl-pipeline)
 
 ---
 
-# 🥈 02 — THE MACHINE
+## 🥈 DOCSOFT — ENTERPRISE AI Q&A
 
-### DOCSOFT — ENTERPRISE RAG SYSTEM
+### `RAG` `LangChain` `FastAPI` `Pinecone`
 
-`FastAPI` `LangChain` `Pinecone` `Docker`
+> **Turning documents into answers.**
 
-> **"Say my name." — Your documents already did.**
-
-A production-oriented RAG system for natural-language Q&A across enterprise documents.
+A production-oriented RAG application for natural-language Q&A across enterprise documents.
 
 ```text
-                   DOCUMENTS
-                       │
-                       ▼
-                SEMANTIC CHUNKS
-                       │
-                       ▼
-                 VECTOR SEARCH
-                       │
-                       ▼
-               CROSS-ENCODER
-                 RERANKING
-                       │
-                       ▼
-                    LLM
-                       │
-                       ▼
-             CITATION-VERIFIED
-                  ANSWER
+DOCUMENTS
+    │
+    ▼
+SEMANTIC CHUNKING
+    │
+    ▼
+VECTOR SEARCH
+    │
+    ▼
+CROSS-ENCODER RERANKING
+    │
+    ▼
+LLM
+    │
+    ▼
+CITATION-VERIFIED ANSWER
 ```
 
-### LAB RESULTS
+### SYSTEM FEATURES
 
 * 🧠 Semantic chunking
+* 🔎 Vector retrieval
 * 🎯 Cross-encoder reranking
 * 📚 Page-level citation tracing
 * 🔐 Tenant isolation
+* 🐳 Dockerized deployment
+* 🔄 CI/CD
 * ⚡ **1.48s p50** load-test latency
-* 🧪 **6/6 document facts** resolved
-* 🐳 Docker deployment
-* 🔄 Automated CI/CD
-* ⚙️ Production-oriented FastAPI backend
+* 🧪 **6/6 document facts** resolved in evaluation
 
-`FastAPI` `Docker` `LangChain` `Pinecone` `RAG` `Gemini`
+**Tech Stack**
 
-🔗 **[ENTER THE LAB →](https://docsoft-tueu.onrender.com/docs)**
+`FastAPI` `Docker` `LangChain` `Pinecone` `Gemini`
 
-💻 **[SOURCE CODE →](https://github.com/utkarshizm/DocSoft)**
+[⚗️ LIVE DEMO →](https://docsoft-tueu.onrender.com/docs)
+
+[💻 SOURCE CODE →](https://github.com/utkarshizm/DocSoft)
 
 ---
 
-# 🥉 03 — THE MONEY
+## 🥉 OLIST — REVENUE & RETENTION ANALYSIS
 
-### OLIST — REVENUE & RETENTION INTELLIGENCE
+### `SQL` `Python` `Streamlit`
 
-`SQL` `Python` `Streamlit`
+> **Finding where the money is hiding.**
 
-> **"No half measures."**
-
-An end-to-end analytics system identifying customer retention risks and revenue opportunities.
+An end-to-end SQL-to-Streamlit analytics pipeline analyzing customer behavior, revenue, and retention risk.
 
 ```text
-                   94,398 CUSTOMERS
-                           │
-                           ▼
-                          SQL
-                           │
-                           ▼
-                    SEGMENTATION
-                           │
-                           ▼
-                   REVENUE ANALYSIS
-                           │
-                           ▼
-                    RETENTION RISK
-                           │
-                           ▼
-                   ACTION STRATEGY
-                           │
-                           ▼
-                       ~900% ROI
+94,398 CUSTOMERS
+       │
+       ▼
+      SQL
+       │
+       ▼
+ SEGMENTATION
+       │
+       ▼
+REVENUE ANALYSIS
+       │
+       ▼
+RETENTION RISK
+       │
+       ▼
+ACTION STRATEGY
+       │
+       ▼
+   ~900% ROI
 ```
 
-### LAB RESULTS
+### BUSINESS RESULTS
 
 * 👥 **94,398 customers**
 * 💰 **R$15.6M revenue**
-* 🚨 **23,082 customers** at risk
-* 📉 At-risk segment = **39.6% of revenue**
-* 🎯 Reactivation strategy
+* 🚨 **23,082 customers** identified as at-risk
+* 📉 At-risk segment represented **39.6% of revenue**
+* 🎯 Proposed customer reactivation strategy
 * 📈 Projected approximately **900% ROI**
 
-`SQL` `Python` `Streamlit` `Customer Analytics`
-
-🔗 **[VIEW THE OPERATION →](https://olist-revenue-retention.streamlit.app/)**
+[💰 VIEW THE ANALYSIS →](https://olist-revenue-retention.streamlit.app/)
 
 ---
 
-# 04 — THE SUPERLAB
+## 04 — ZOMATO BANGALORE RESTAURANTS
 
-### ZOMATO — BANGALORE MARKET INTELLIGENCE
+### `Python` `Power BI` `DAX`
 
-`Python` `Power BI` `DAX` `Geospatial Analytics`
+> **The data doesn't lie.**
 
-> **"The data doesn't lie."**
-
-Analyzed **51,717+ Bangalore restaurant records** and built an interactive Power BI dashboard to identify market opportunities.
+Cleaned and analyzed **51,717+ Bangalore restaurant records** and built an interactive Power BI dashboard.
 
 ```text
-                   51,717+ RECORDS
-                          │
-                          ▼
-                     CLEAN DATA
-                          │
-                          ▼
-                  FEATURE ENGINEERING
-                          │
-                          ▼
-                      DAX MODEL
-                          │
-                          ▼
-                  POWER BI DASHBOARD
-                          │
-                          ▼
-                  MARKET INTELLIGENCE
+51,717+ RECORDS
+       │
+       ▼
+ DATA CLEANING
+       │
+       ▼
+FEATURE ENGINEERING
+       │
+       ▼
+   DAX MODEL
+       │
+       ▼
+POWER BI DASHBOARD
+       │
+       ▼
+MARKET INSIGHTS
 ```
 
-### LAB RESULTS
+### BUSINESS RESULTS
 
-* 🧹 **51,717+ records** processed
+* 🧹 **51,717+ records** cleaned
 * 📊 Interactive Power BI dashboard
 * 🧮 Custom DAX measures
 * 🗺️ Geographic heat maps
 * 🔄 Cross-chart filtering
 * 🎯 High-opportunity market segments
 
-`Python` `Pandas` `Power BI` `DAX`
-
-🔗 **[ENTER THE SUPERLAB →](https://utkrsh.lovable.app/projects/zomato)**
-
----
-
-# 💰 THE METH // CERTIFICATIONS
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                       CREDENTIALS                            ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  [01] GOOGLE AI PROFESSIONAL CERTIFICATE                     ║
-║       Google · Coursera                                      ║
-║                                                              ║
-║  [02] AZURE AI ESSENTIALS PROFESSIONAL CERTIFICATE           ║
-║       Microsoft · LinkedIn                                   ║
-║                                                              ║
-║  [03] SQL (ADVANCED) SKILL CERTIFICATION                     ║
-║       HackerRank                                              ║
-║                                                              ║
-║  [04] GENAI 360: GENERATIVE AI FUNDAMENTALS                  ║
-║       Activeloop                                              ║
-║                                                              ║
-║  [05] GITHUB PROFESSIONAL CERTIFICATE                         ║
-║       GitHub                                                  ║
-║                                                              ║
-║  [06] CAREER ESSENTIALS IN DATA ANALYSIS                     ║
-║       Microsoft · LinkedIn                                   ║
-║                                                              ║
-║  [07] QUANTITATIVE RESEARCH JOB SIMULATION                   ║
-║       JPMorgan Chase · Forage                                ║
-║                                                              ║
-║  [08] GENAI POWERED DATA ANALYTICS SIMULATION                ║
-║       Tata Group · Forage                                    ║
-║                                                              ║
-║  [09] DATA ANALYTICS JOB SIMULATION                          ║
-║       Deloitte Australia · Forage                             ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+[📊 VIEW DASHBOARD →](https://utkrsh.lovable.app/projects/zomato)
 
 ---
 
@@ -408,9 +302,9 @@ Analyzed **51,717+ Bangalore restaurant records** and built an interactive Power
 
 ```text
 HEISENBERG LAB STATUS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-[✓] DATA SCIENCE
+[✓] DATA ANALYTICS
 [✓] MACHINE LEARNING
 [✓] GENERATIVE AI
 [✓] RAG APPLICATIONS
@@ -429,47 +323,45 @@ HEISENBERG LAB STATUS
 
 ### CURRENT OBJECTIVE
 
-> **Build systems that turn raw data into decisions.**
+**Build intelligent systems that turn raw data into decisions.**
 
 ---
 
-# 📡 THE CONNECTION
+# 📜 CERTIFICATIONS
+
+* 🧠 **Google AI Professional Certificate** — Google · Coursera
+* ☁️ **Azure AI Essentials Professional Certificate** — Microsoft · LinkedIn
+* 🗄️ **SQL (Advanced) Skill Certification** — HackerRank
+* 🤖 **GenAI 360: Generative AI Fundamentals** — Activeloop
+* 🐙 **GitHub Professional Certificate** — GitHub
+* 📊 **Career Essentials in Data Analysis** — Microsoft · LinkedIn
+* 🏦 **Quantitative Research Job Simulation** — JPMorgan Chase · Forage
+* 🤖 **GenAI Powered Data Analytics Simulation** — Tata Group · Forage
+* 📈 **Data Analytics Job Simulation** — Deloitte Australia · Forage
+
+---
 
 <div align="center">
 
-### "You know the business. I know the chemistry."
-
-<br>
-
-<a href="mailto:pandeyutkarsh060@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0B0B0B?style=for-the-badge&logo=gmail&logoColor=FFD700">
-</a>
-
- 
-
-<a href="https://www.linkedin.com/in/pandeyutkarrsh/">
-<img src="https://img.shields.io/badge/LINKEDIN-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=FFFFFF">
-</a>
-
- 
-
-<a href="https://utkarshizm.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0B0B0B?style=for-the-badge&logo=vercel&logoColor=FFD700">
-</a>
-
-<br><br>
-
-<a href="https://utkarshizm.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/ENTER_THE_LAB-FFD700?style=for-the-badge&logoColor=0B0B0B">
-</a>
-
-<br><br>
+# 🧪 NO HALF MEASURES.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=3&section=footer" width="80%">
 
 <br>
 
+<a href="https://utkarshizm.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/ENTER_MY_PORTFOLIO-0B0B0B?style=for-the-badge&logo=vercel&logoColor=FFD700">
+</a>
+
+<br><br>
+
+<a href="mailto:pandeyutkarsh060@gmail.com">📫 Email</a>
+  •   <a href="https://www.linkedin.com/in/pandeyutkarrsh/">💼 LinkedIn</a>
+  •   <a href="https://github.com/utkarshizm">💻 GitHub</a>
+
+<br><br>
+
 <sub>Built with data. Powered by curiosity. No half measures.</sub>
 
 </div>
-``` 
+
